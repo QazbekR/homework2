@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\bin\Debug\net6.0\git_ignore.exe
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\bin\Debug\net6.0\git_ignore.deps.json
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\bin\Debug\net6.0\git_ignore.runtimeconfig.json
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\bin\Debug\net6.0\git_ignore.dll
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\bin\Debug\net6.0\git_ignore.pdb
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\git_ignore.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\git_ignore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\git_ignore.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\git_ignore.AssemblyInfo.cs
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\git_ignore.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\git_ignore.dll
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\refint\git_ignore.dll
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\git_ignore.pdb
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\git_ignore.genruntimeconfig.cache
+C:\Users\admin\Downloads\Desktop\homework2\git_ignore\obj\Debug\net6.0\ref\git_ignore.dll
